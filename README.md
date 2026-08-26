@@ -32,7 +32,9 @@ macOS arm 安装提前 需要将安全性与隐私里-选择允许从任何来�
 终端输入命令：sascript -e 'do shell script "sudo spctl --master-disable" with administrator privileges'
 
 Linux系统使用方法：解压后
+
 chmod +x CloudFlareScan
+
 ./CloudFlareScan
 
 
