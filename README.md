@@ -1,6 +1,6 @@
 # CloudFlareScan (ipv4&ipv6)  
 
-CloudFlare 扫描器 （简称CFS)  适配 Win  macOS  Android 
+CloudFlare 扫描器 （简称CFS)  适配 Win  macOS  Android  Linux
 
 软件演示视频：https://www.youtube.com/watch?v=Fw2W4B77bts
 
